@@ -1,10 +1,10 @@
 
 # code License Agreement
 
-**Effective Date:** 19/10/2023
+**Effective Date:** 21/02/2024
 
 **Between:**
-moonlightvfx
+skittle_chan_yt
 
 **And:**
 End-User ("Licensee")
